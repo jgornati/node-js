@@ -6,3 +6,4 @@ var http = require('http');
         }).listen(8080, '0.0.0.0');
         
         console.log('Server running at http://179.43.126.244:8080/')
+#lo subi desde la compu
